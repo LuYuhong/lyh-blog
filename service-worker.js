@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/css/page.css","42f78d804242211f7c0f799ebe2eb760"],["/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/css/vue-pdf.css","b4ebeab476ea662c947e96f9b71e0d32"],["/index.html","ef407062906d33642429ccf16fa2685c"],["/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/zh-cn/index.html","4606a9bf754f1b22fd6fb307b404e5b0"]];
+var precacheConfig = [["/css/page.css","42f78d804242211f7c0f799ebe2eb760"],["/css/style.min.css","16a4cc20ac2ecce2dfd8bc11dcf43592"],["/css/vue-pdf.css","b4ebeab476ea662c947e96f9b71e0d32"],["/images/ios.png","559a9d687878ce88419848a559e982fd"],["/images/java.jpg","341601cb9b34ecb8e065e4635aacf4bd"],["/images/map.png","0718a43c9351817e96c90ae3b22fad40"],["/images/vue知识图谱.png","009934a651e8b724d8df05bab6054d32"],["/images/前端知识图谱.png","8ed9c0aed686414deb1f2f1c7422fe94"],["/images/协会.png","2ad01ccab8c957eb1385bb3052f5f90b"],["/images/四年总览.png","bcf0280ff5c659aacb63641b841c50a9"],["/images/基础算法.png","700324aca1def9eda8b5f6ec79be19f6"],["/images/安卓图谱.png","e1bc3e01f988118327cbab992793c4f8"],["/images/考研流程.jpg","2459ac58f80a16c6275b437bfa592695"],["/index.html","bdcc8912502bd349d87317207fcdd74f"],["/js/common.js","ae798d30af603c3cbf2fa6549151dd0b"],["/js/css.escape.js","fe4db48c9e3f272a6d12cf1312de889e"],["/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"],["/zh-cn/index.html","88c9bbf26ed8a7683f20744dd78d2d7a"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
